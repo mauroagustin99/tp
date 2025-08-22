@@ -33,16 +33,16 @@ https://drive.google.com/file/d/1tck3RD6nlFP1pz9xcckBYNq8MNagbDFf/view?usp=shari
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple| 1. CRUD Publicador <br>2. CRUD Desarrollador <br>3. CRUD Categoría <br>4. CRUD Usuario <br>5. CRUD Ticket de soporte <br>6. CRUD Servicio de hosting|
-|CRUD dependiente| 1. CRUD Lista de deseos <br>2. CRUD ticket de soporte <br>3. CRUD Publicacion de juego|
+|CRUD simple| 1. CRUD Publicador <br>2. CRUD Desarrollador <br>3. CRUD Categoría <br>4. CRUD Usuario <br>5. CRUD Ticket de soporte|
+|CRUD dependiente| 1. CRUD Lista de deseos <br>2. CRUD Ticket de soporte <br>3. CRUD Publicacion de juego|
 |Listado<br>+<br>detalle| 1. Listado de servicios de hosting solicitados, filtrando por categoria de juego, fecha de solicitud, recursos de hardware solicitados <br> 2. Listado de juegos deseados filtrado por categoría de juego, rango de precios, juego a la venta <br> 3. Listado de tickets de soporte generadors por usuarios indicando su estado y datos de categorizacion|
-|CUU/Epic| 1. Crear publicacion de venta de juego <br> 2. Agregar juego a lista de deseos <br> 3. Crear un ticket de soporte|
+|CUU/Epic| 1. Crear categoria de juego - CUU01<br> 2. Crear desarrollador de juego - CUU02<br> 3. Crear publicador de juego - CUU03 <br> 4. Registrar usuario - CUU04|
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD | 1. CRUD Publicador<br> 2. CRUD Desarrollador<br> 3. CRUD Precio de juego<br> 4. CRUD Oferta de juego<br> 5. CRUD Categoría<br> 6. CRUD Usuario<br> 7. CRUD Juego<br> 8. CRUD Perfil usuario<br> 9. CRUD Ticket de soporte<br> 10. CRUD Servicio de hosting|
-|CUU/Epic| 1. Crear publicacion de juego<br> 2. Agregar juego a lista de deseos (Relacionado con CUU - Crear publicacion de juego)<br> 3. Recuperar contraseña/usuario <br> 4. Crear un ticket de soporte <br> 5. Contratar hosting para un juego|
+|CUU/Epic| 1. Crear categoria de juego - CUU01<br> 2. Crear desarrollador de juego - CUU02<br> 3. Crear publicador de juego - CUU03 <br> 4. Registrar usuario - CUU04 <br> 5. Recuperar contraseña de usuario - CUU05 <br> 6. Agregar juego a lista de deseos - CUU06|
 
 ### Alcance Adicional Voluntario
 
