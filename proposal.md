@@ -35,19 +35,19 @@ Regularidad:
 |:-|:-|
 |CRUD simple| 1. CRUD Publicador <br>2. CRUD Desarrollador <br>3. CRUD Categoría <br>4. CRUD Usuario <br>5. CRUD Ticket de soporte|
 |CRUD dependiente| 1. CRUD Lista de deseos <br>2. CRUD Carro de compras <br>3. CRUD Juegos|
-|Listado<br>+<br>detalle| 1. Listado de servicios de hosting solicitados, filtrando por categoria de juego, fecha de solicitud, recursos de hardware solicitados <br> 2. Listado de juegos filtrados por categoría , rango de precios, fecha de salida <br> 3. Listado de tickets de soporte filtrados por estado, fecha de creación y usuario|
+|Listado<br>+<br>detalle| 1. Listado de servicios de hosting solicitados, filtrando por nombre de juego/programa, publicador y/o recursos de hardware <br> 2. Listado de juegos filtrados por categoría , rango de precios, fecha de salida <br> 3. Listado de tickets de soporte filtrados por estado, fecha de creación y usuario|
 |CUU/Epic| 1. Crear categoria de juego - CUU01<br> 2. Crear desarrollador de juego - CUU02<br> 3. Crear publicador de juego - CUU03 <br> 4. Registrar usuario - CUU04|
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD | 1. CRUD Publicador<br> 2. CRUD Desarrollador<br> 3. CRUD Precio de juego<br> 4. CRUD Oferta de juego<br> 5. CRUD Categoría<br> 6. CRUD Usuario<br> 7. CRUD Juego<br> 8. CRUD Perfil usuario<br> 9. CRUD Ticket de soporte<br> 10. CRUD Servicio de hosting|
-|CUU/Epic| 1. Crear categoria de juego - CUU01<br> 2. Crear desarrollador de juego - CUU02<br> 3. Crear publicador de juego - CUU03 <br> 4. Registrar usuario - CUU04 <br> 5. Recuperar contraseña de usuario - CUU05 <br> 6. Agregar juego a lista de deseos - CUU06|
+|CRUD | 1. CRUD Publicador<br> 2. CRUD Desarrollador<br> 3. CRUD Precio de juego<br> 4. CRUD Servicio de Hosting<br> 5. CRUD Categoría<br> 6. CRUD Usuario<br> 7. CRUD Juego<br> 8. CRUD Perfil usuario<br> 9. CRUD Ticket de soporte<br>|
+|CUU/Epic| 1. Crear categoria de juego - CUU01<br> 2. Crear desarrollador de juego - CUU02<br> 3. Crear publicador de juego - CUU03 <br> 4. Registrar usuario - CUU04 <br> 5. Agregar juego a lista de deseos - CUU06|
 
 ### Alcance Adicional Voluntario
 
 | Req      | Detalle                                                                                                                                                                                                                                       |
 | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Listados | 1. Categoría más deseada, filtrado por cantidad de juegos en lista de deseos, juegos comprados, cantidad de descuentos por mes. <br> 2. Juegos agregados a lista de deseos, muestra datos de usuario, reseñas de juego, fecha de lanzamiento. |
-| CUU/Epic | 1. Eliminar juego deseado <br> 2. Eliminar usuario sistema web                                                                                                                                                                                |
-| Otros    | 1. Envía recordatorio de dia de salida de juego agregado a lista de deseos                                                                                                                                                                    |
+| Listados | |
+| CUU/Epic | 1. Recuperar contraseña de usuario - CUU05|
+| Otros    | 1. Recuperacion de contraseña <br> 2.Encriptado de datos durante registro, logueo y recuperacion de contraseña <br> 3. Menu lateral que puede actualizarse desde la base de datos|
