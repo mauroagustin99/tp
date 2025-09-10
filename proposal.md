@@ -48,6 +48,6 @@ Adicionales para Aprobación
 
 | Req      | Detalle                                                                                                                                                                                                                                       |
 | :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Listados | |
+| Listados | 1. Biblioteca de juegos <br> 2. Lista de deseos|
 | CUU/Epic | 1. Recuperar contraseña de usuario - CUU05|
 | Otros    | 1. Recuperacion de contraseña <br> 2.Encriptado de datos durante registro, logueo y recuperacion de contraseña <br> 3. Menu lateral que puede actualizarse desde la base de datos|
